@@ -1,0 +1,31 @@
+PROTEIN_NAP DATA CLEANING REPORT
+==============================
+food_records_raw: 1914
+food_records_output: 1914
+food_missing_group: 113
+food_duplicate_normalized_name_records: 199
+food_negative_nutrition_values_found: 0
+food_nutrient_long_records: 105379
+food_measure_records: 3790
+nutrient_records: 166
+recipe_records_raw: 137
+recipe_records_output: 137
+recipe_component_records_output: 563
+recipe_category_records_output: 554
+meal_plan_records: 385
+meal_version_records: 385
+meal_records: 1889
+meal_component_records_output: 7653
+meal_food_references_missing_and_removed: 0
+activity_records: 121
+
+Cleaning rules applied:
+- Preserved raw source archive unchanged.
+- Trimmed whitespace, normalized repeated whitespace, preserved meaningful punctuation.
+- Converted numeric fields to finite numeric values; invalid/non-finite numeric values omitted.
+- Removed negative nutrition values from the flattened recipe/food output rather than manufacturing replacements.
+- Did NOT blindly delete duplicate food names; normalized-name duplicates are flagged.
+- Missing food-group IDs are retained as blank/Unknown rather than deleting the food.
+- Flattened nutrient records into both long and wide forms for ML use.
+- Flattened recipe components and meal components while preserving IDs and relationships.
+- Meal/recipe component references to food IDs absent from the food master are excluded from relationship outputs and counted in the audit.

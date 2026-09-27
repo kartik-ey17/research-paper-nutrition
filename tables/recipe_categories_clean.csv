@@ -1,0 +1,555 @@
+﻿recipe_id,recipe_category_id,category
+149394,1689,Price: 3.50
+149394,1705,Restaurant name: Porto Fluviale Trattoria
+149394,1708,Cicchetti
+149394,2909,Available: No
+149399,2316,Available: Yes
+149399,1689,Price: 3.50
+149399,1708,Cicchetti
+149399,1705,Restaurant name: Porto Fluviale Trattoria
+45917,2909,Available: No
+149442,2316,Available: Yes
+149442,1395,Price: 7.00
+149442,1705,Restaurant name: Porto Fluviale Trattoria
+149442,2237,First Dishes
+73537,2909,Available: No
+73537,1670,Restaurant name: Porto Fluviale Pizzeria
+73537,1672,Pasta
+73537,1388,Price: 9.50
+73537,1705,Restaurant name: Porto Fluviale Trattoria
+149466,1705,Restaurant name: Porto Fluviale Trattoria
+149466,1672,Pasta
+149466,1670,Restaurant name: Porto Fluviale Pizzeria
+149466,2909,Available: No
+149489,1407,Gastronomy
+149489,1670,Restaurant name: Porto Fluviale Pizzeria
+149489,1705,Restaurant name: Porto Fluviale Trattoria
+149489,1403,Price: 10.50
+149489,2909,Available: No
+60225,1400,Focacce
+60225,2316,Available: Yes
+60225,1414,Price: 13.00
+60225,1670,Restaurant name: Porto Fluviale Pizzeria
+60232,2909,Available: No
+60232,1401,White Pizzas
+60232,1394,Price: 10.00
+60232,1670,Restaurant name: Porto Fluviale Pizzeria
+60242,1401,White Pizzas
+60242,1394,Price: 10.00
+60242,2316,Available: Yes
+60242,1670,Restaurant name: Porto Fluviale Pizzeria
+74273,2316,Available: Yes
+74273,1670,Restaurant name: Porto Fluviale Pizzeria
+74273,1419,Fried
+74273,1689,Price: 3.50
+60248,1391,Price: 11.50
+60248,1401,White Pizzas
+60248,2316,Available: Yes
+60248,1670,Restaurant name: Porto Fluviale Pizzeria
+61004,2909,Available: No
+61004,1407,Gastronomy
+61004,1387,Price: 11.00
+61004,1670,Restaurant name: Porto Fluviale Pizzeria
+61004,1705,Restaurant name: Porto Fluviale Trattoria
+60997,1413,Price: 5.00
+60997,2316,Available: Yes
+60997,1,Desserts
+60997,1670,Restaurant name: Porto Fluviale Pizzeria
+60997,1705,Restaurant name: Porto Fluviale Trattoria
+61002,2909,Available: No
+61002,1407,Gastronomy
+61002,1408,Price: 18.00
+61002,1670,Restaurant name: Porto Fluviale Pizzeria
+61002,1705,Restaurant name: Porto Fluviale Trattoria
+60998,2909,Available: No
+60998,1407,Gastronomy
+60998,1414,Price: 13.00
+60998,1670,Restaurant name: Porto Fluviale Pizzeria
+60998,1705,Restaurant name: Porto Fluviale Trattoria
+89457,1670,Restaurant name: Porto Fluviale Pizzeria
+89457,1401,White Pizzas
+89457,2316,Available: Yes
+89457,1388,Price: 9.50
+89444,1670,Restaurant name: Porto Fluviale Pizzeria
+89444,1401,White Pizzas
+89444,1384,Price: 9.00
+89444,2316,Available: Yes
+60252,1401,White Pizzas
+60252,2316,Available: Yes
+60252,1392,Price: 8.50
+60252,1670,Restaurant name: Porto Fluviale Pizzeria
+89622,1384,Price: 9.00
+89622,1401,White Pizzas
+89622,1670,Restaurant name: Porto Fluviale Pizzeria
+89622,2909,Available: No
+75766,2909,Available: No
+75766,1708,Cicchetti
+75766,1709,Price: 4.50
+75766,1705,Restaurant name: Porto Fluviale Trattoria
+89620,1401,White Pizzas
+89620,1670,Restaurant name: Porto Fluviale Pizzeria
+89620,1403,Price: 10.50
+89620,2316,Available: Yes
+80281,2909,Available: No
+80281,1393,Price: 12.00
+80281,1670,Restaurant name: Porto Fluviale Pizzeria
+80281,1401,White Pizzas
+80286,2909,Available: No
+80286,1403,Price: 10.50
+80286,1670,Restaurant name: Porto Fluviale Pizzeria
+80286,1401,White Pizzas
+80278,2909,Available: No
+80278,1670,Restaurant name: Porto Fluviale Pizzeria
+80278,1401,White Pizzas
+80278,1403,Price: 10.50
+80320,2909,Available: No
+80320,1388,Price: 9.50
+80320,1670,Restaurant name: Porto Fluviale Pizzeria
+80320,1401,White Pizzas
+80329,2909,Available: No
+80329,1414,Price: 13.00
+80329,1803,Panuozzi
+80329,1670,Restaurant name: Porto Fluviale Pizzeria
+80330,2909,Available: No
+80330,1389,Price: 12.50
+80330,1803,Panuozzi
+80330,1670,Restaurant name: Porto Fluviale Pizzeria
+80332,2909,Available: No
+80332,1670,Restaurant name: Porto Fluviale Pizzeria
+80332,1803,Panuozzi
+80332,1795,Price: 13.50
+80333,2909,Available: No
+80333,1670,Restaurant name: Porto Fluviale Pizzeria
+80333,1803,Panuozzi
+80333,1414,Price: 13.00
+102993,2909,Available: No
+102993,1395,Price: 7.00
+102993,1672,Pasta
+102993,1705,Restaurant name: Porto Fluviale Trattoria
+102996,2909,Available: No
+102996,1705,Restaurant name: Porto Fluviale Trattoria
+102996,1388,Price: 9.50
+102996,1672,Pasta
+102996,1670,Restaurant name: Porto Fluviale Pizzeria
+103005,2909,Available: No
+103005,1672,Pasta
+103005,1705,Restaurant name: Porto Fluviale Trattoria
+103005,1417,Price: 6.50
+73539,2316,Available: Yes
+73539,1672,Pasta
+73539,1670,Restaurant name: Porto Fluviale Pizzeria
+73539,1388,Price: 9.50
+73539,1705,Restaurant name: Porto Fluviale Trattoria
+103015,2909,Available: No
+103015,2237,First Dishes
+103015,1705,Restaurant name: Porto Fluviale Trattoria
+103015,1417,Price: 6.50
+103006,1417,Price: 6.50
+103006,1705,Restaurant name: Porto Fluviale Trattoria
+103006,2316,Available: Yes
+103006,1672,Pasta
+73535,2316,Available: Yes
+73535,1670,Restaurant name: Porto Fluviale Pizzeria
+73535,1672,Pasta
+73535,1388,Price: 9.50
+73535,1705,Restaurant name: Porto Fluviale Trattoria
+103008,1417,Price: 6.50
+103008,1705,Restaurant name: Porto Fluviale Trattoria
+103008,1672,Pasta
+103008,2316,Available: Yes
+103012,1705,Restaurant name: Porto Fluviale Trattoria
+103012,1672,Pasta
+103012,1382,Price: 8.00
+103012,2909,Available: No
+106669,2909,Available: No
+106669,1705,Restaurant name: Porto Fluviale Trattoria
+106669,1394,Price: 10.00
+106669,1797,Second dish
+153817,2316,Available: Yes
+153817,1728,Burger
+153817,1709,Price: 4.50
+153817,1705,Restaurant name: Porto Fluviale Trattoria
+153818,1728,Burger
+153818,2316,Available: Yes
+153818,1705,Restaurant name: Porto Fluviale Trattoria
+153818,1709,Price: 4.50
+153819,1728,Burger
+153819,1709,Price: 4.50
+153819,1705,Restaurant name: Porto Fluviale Trattoria
+153819,2909,Available: No
+149434,1802,price: 7.50
+149434,1705,Restaurant name: Porto Fluviale Trattoria
+149434,2237,First Dishes
+149434,2909,Available: No
+153839,1705,Restaurant name: Porto Fluviale Trattoria
+153839,8,Salads
+153839,1382,Price: 8.00
+153839,1670,Restaurant name: Porto Fluviale Pizzeria
+153839,2316,Available: Yes
+153841,8,Salads
+153841,1670,Restaurant name: Porto Fluviale Pizzeria
+153841,1705,Restaurant name: Porto Fluviale Trattoria
+153841,1388,Price: 9.50
+153841,2909,Available: No
+153842,8,Salads
+153842,1387,Price: 11.00
+153842,1705,Restaurant name: Porto Fluviale Trattoria
+153842,1670,Restaurant name: Porto Fluviale Pizzeria
+153842,2909,Available: No
+153844,1404,Sides
+153844,2316,Available: Yes
+153844,1705,Restaurant name: Porto Fluviale Trattoria
+153844,1398,Price: 6.00
+153844,8,Salads
+153844,1670,Restaurant name: Porto Fluviale Pizzeria
+153888,1797,Second dish
+153888,1705,Restaurant name: Porto Fluviale Trattoria
+153888,1382,Price: 8.00
+153888,2909,Available: No
+153858,2316,Available: Yes
+153858,1670,Restaurant name: Porto Fluviale Pizzeria
+153858,2991,Kids Menù
+153858,1705,Restaurant name: Porto Fluviale Trattoria
+153858,1384,Price: 9.00
+153879,1798,Price: 17.00
+153879,1705,Restaurant name: Porto Fluviale Trattoria
+153879,1797,Second dish
+153879,2909,Available: No
+153878,1705,Restaurant name: Porto Fluviale Trattoria
+153878,1797,Second dish
+153878,1403,Price: 10.50
+153878,2909,Available: No
+153890,1705,Restaurant name: Porto Fluviale Trattoria
+153890,1797,Second dish
+153890,2316,Available: Yes
+153890,3487,Price: 19.50
+154497,1670,Restaurant name: Porto Fluviale Pizzeria
+154497,1401,White Pizzas
+154497,1387,Price: 11.00
+154497,2909,Available: No
+154515,1670,Restaurant name: Porto Fluviale Pizzeria
+154515,2316,Available: Yes
+154515,1400,Focacce
+154515,1414,Price: 13.00
+154527,1670,Restaurant name: Porto Fluviale Pizzeria
+154527,1419,Fried
+154527,1393,Price: 12.00
+154527,2316,Available: Yes
+154483,1384,Price: 9.00
+154483,1670,Restaurant name: Porto Fluviale Pizzeria
+154483,1401,White Pizzas
+154483,2316,Available: Yes
+154494,1388,Price: 9.50
+154494,1401,White Pizzas
+154494,1670,Restaurant name: Porto Fluviale Pizzeria
+154494,2909,Available: No
+154496,1670,Restaurant name: Porto Fluviale Pizzeria
+154496,1394,Price: 10.00
+154496,1401,White Pizzas
+154496,2909,Available: No
+154500,1401,White Pizzas
+154500,1670,Restaurant name: Porto Fluviale Pizzeria
+154500,1394,Price: 10.00
+154500,2909,Available: No
+154501,1670,Restaurant name: Porto Fluviale Pizzeria
+154501,1403,Price: 10.50
+154501,1401,White Pizzas
+154501,2909,Available: No
+154519,2316,Available: Yes
+154519,1793,Swords
+154519,1705,Restaurant name: Porto Fluviale Trattoria
+154519,1753,Price: 16.00
+154485,2316,Available: Yes
+154485,1401,White Pizzas
+154485,1670,Restaurant name: Porto Fluviale Pizzeria
+154485,1394,Price: 10.00
+154516,1689,Price: 3.50
+154516,1419,Fried
+154516,1670,Restaurant name: Porto Fluviale Pizzeria
+154516,2909,Available: No
+154495,1670,Restaurant name: Porto Fluviale Pizzeria
+154495,1401,White Pizzas
+154495,1403,Price: 10.50
+154495,2909,Available: No
+154498,1670,Restaurant name: Porto Fluviale Pizzeria
+154498,1384,Price: 9.00
+154498,1401,White Pizzas
+154498,2909,Available: No
+154503,1670,Restaurant name: Porto Fluviale Pizzeria
+154503,1401,White Pizzas
+154503,1391,Price: 11.50
+154503,2909,Available: No
+154517,2316,Available: Yes
+154517,1670,Restaurant name: Porto Fluviale Pizzeria
+154517,1419,Fried
+154517,1410,Price: 5.50
+154521,1708,Cicchetti
+154521,1689,Price: 3.50
+154521,2316,Available: Yes
+154521,1705,Restaurant name: Porto Fluviale Trattoria
+185705,1689,Price: 3.50
+185705,2316,Available: Yes
+185705,1,Desserts
+185705,1705,Restaurant name: Porto Fluviale Trattoria
+185705,1670,Restaurant name: Porto Fluviale Pizzeria
+185702,1705,Restaurant name: Porto Fluviale Trattoria
+185702,1410,Price: 5.50
+185702,2316,Available: Yes
+185702,1,Desserts
+185702,1670,Restaurant name: Porto Fluviale Pizzeria
+185704,2316,Available: Yes
+185704,1670,Restaurant name: Porto Fluviale Pizzeria
+185704,1705,Restaurant name: Porto Fluviale Trattoria
+185704,1,Desserts
+185704,1689,Price: 3.50
+185703,1670,Restaurant name: Porto Fluviale Pizzeria
+185703,1,Desserts
+185703,2316,Available: Yes
+185703,1398,Price: 6.00
+185703,1705,Restaurant name: Porto Fluviale Trattoria
+185706,2316,Available: Yes
+185706,1705,Restaurant name: Porto Fluviale Trattoria
+185706,1,Desserts
+185706,1670,Restaurant name: Porto Fluviale Pizzeria
+185706,1689,Price: 3.50
+186167,1,Desserts
+186167,1670,Restaurant name: Porto Fluviale Pizzeria
+186167,2316,Available: Yes
+186167,1398,Price: 6.00
+186167,1705,Restaurant name: Porto Fluviale Trattoria
+186174,1689,Price: 3.50
+186174,1670,Restaurant name: Porto Fluviale Pizzeria
+186174,1705,Restaurant name: Porto Fluviale Trattoria
+186174,1,Desserts
+186174,2316,Available: Yes
+186175,1705,Restaurant name: Porto Fluviale Trattoria
+186175,2316,Available: Yes
+186175,1417,Price: 6.50
+186175,1670,Restaurant name: Porto Fluviale Pizzeria
+186175,1,Desserts
+186170,1,Desserts
+186170,1417,Price: 6.50
+186170,1670,Restaurant name: Porto Fluviale Pizzeria
+186170,1705,Restaurant name: Porto Fluviale Trattoria
+186170,2316,Available: Yes
+80255,2316,Available: Yes
+80255,1670,Restaurant name: Porto Fluviale Pizzeria
+80255,1705,Restaurant name: Porto Fluviale Trattoria
+80255,1408,Price: 18.00
+80255,1407,Gastronomy
+181097,1709,Price: 4.50
+181097,1705,Restaurant name: Porto Fluviale Trattoria
+181097,1708,Cicchetti
+181097,2909,Available: No
+182290,1705,Restaurant name: Porto Fluviale Trattoria
+182290,2316,Available: Yes
+182290,1392,Price: 8.50
+182290,1672,Pasta
+182111,1392,Price: 8.50
+182111,2316,Available: Yes
+182111,1705,Restaurant name: Porto Fluviale Trattoria
+182111,1672,Pasta
+182065,1393,Price: 12.00
+182065,1401,White Pizzas
+182065,1670,Restaurant name: Porto Fluviale Pizzeria
+182065,2316,Available: Yes
+182064,1403,Price: 10.50
+182064,1401,White Pizzas
+182064,1670,Restaurant name: Porto Fluviale Pizzeria
+182064,2316,Available: Yes
+80274,2316,Available: Yes
+80274,1670,Restaurant name: Porto Fluviale Pizzeria
+80274,1400,Focacce
+80274,1414,Price: 13.00
+182066,1401,White Pizzas
+182066,1670,Restaurant name: Porto Fluviale Pizzeria
+182066,2316,Available: Yes
+182066,1394,Price: 10.00
+182059,1803,Panuozzi
+182059,1670,Restaurant name: Porto Fluviale Pizzeria
+182059,2316,Available: Yes
+182059,1414,Price: 13.00
+182480,2316,Available: Yes
+182480,1728,Burger
+182480,1705,Restaurant name: Porto Fluviale Trattoria
+182480,2236,Price: 14.00
+182494,1798,Price: 17.00
+182494,1793,Swords
+182494,1705,Restaurant name: Porto Fluviale Trattoria
+182494,2316,Available: Yes
+182492,1705,Restaurant name: Porto Fluviale Trattoria
+182492,1709,Price: 4.50
+182492,2316,Available: Yes
+182492,1728,Burger
+182484,1709,Price: 4.50
+182484,2316,Available: Yes
+182484,1705,Restaurant name: Porto Fluviale Trattoria
+182484,1728,Burger
+182908,1407,Gastronomy
+182908,1705,Restaurant name: Porto Fluviale Trattoria
+182908,1670,Restaurant name: Porto Fluviale Pizzeria
+182908,1753,Price: 16.00
+182908,2316,Available: Yes
+182909,1705,Restaurant name: Porto Fluviale Trattoria
+182909,3578,Price: 18.50
+182909,2316,Available: Yes
+182909,1407,Gastronomy
+182909,1670,Restaurant name: Porto Fluviale Pizzeria
+182910,1670,Restaurant name: Porto Fluviale Pizzeria
+182910,2316,Available: Yes
+182910,3579,Price: 8.00 / etto
+182910,1751,Grilled and second dish
+182912,3581,Price: 8.50 / etto
+182912,2316,Available: Yes
+182912,1670,Restaurant name: Porto Fluviale Pizzeria
+182912,1751,Grilled and second dish
+182915,2989,Price: 15.00
+182915,1670,Restaurant name: Porto Fluviale Pizzeria
+182915,2316,Available: Yes
+182915,1751,Grilled and second dish
+183093,2236,Price: 14.00
+183093,1670,Restaurant name: Porto Fluviale Pizzeria
+183093,2316,Available: Yes
+183093,1401,White Pizzas
+183094,1403,Price: 10.50
+183094,2316,Available: Yes
+183094,1670,Restaurant name: Porto Fluviale Pizzeria
+183094,1401,White Pizzas
+149483,2316,Available: Yes
+149483,1705,Restaurant name: Porto Fluviale Trattoria
+149483,1670,Restaurant name: Porto Fluviale Pizzeria
+149483,1407,Gastronomy
+149483,1414,Price: 13.00
+183092,1401,White Pizzas
+183092,2316,Available: Yes
+183092,1670,Restaurant name: Porto Fluviale Pizzeria
+183092,1795,Price: 13.50
+183104,2316,Available: Yes
+183104,1670,Restaurant name: Porto Fluviale Pizzeria
+183104,1401,White Pizzas
+183104,2236,Price: 14.00
+183058,1797,Second dish
+183058,1705,Restaurant name: Porto Fluviale Trattoria
+183058,1798,Price: 17.00
+183058,2316,Available: Yes
+183064,1705,Restaurant name: Porto Fluviale Trattoria
+183064,1404,Sides
+183064,2316,Available: Yes
+183064,1670,Restaurant name: Porto Fluviale Pizzeria
+183064,1398,Price: 6.00
+183065,1419,Fried
+183065,2316,Available: Yes
+183065,1689,Price: 3.50
+183065,1670,Restaurant name: Porto Fluviale Pizzeria
+183091,1670,Restaurant name: Porto Fluviale Pizzeria
+183091,1401,White Pizzas
+183091,1389,Price: 12.50
+183091,2316,Available: Yes
+183097,1403,Price: 10.50
+183097,1670,Restaurant name: Porto Fluviale Pizzeria
+183097,1401,White Pizzas
+183097,2316,Available: Yes
+183103,1401,White Pizzas
+183103,1670,Restaurant name: Porto Fluviale Pizzeria
+183103,2316,Available: Yes
+183103,1414,Price: 13.00
+183052,1797,Second dish
+183052,1384,Price: 9.00
+183052,1705,Restaurant name: Porto Fluviale Trattoria
+183052,2316,Available: Yes
+183102,1670,Restaurant name: Porto Fluviale Pizzeria
+183102,2316,Available: Yes
+183102,1401,White Pizzas
+183102,1393,Price: 12.00
+183059,1797,Second dish
+183059,2316,Available: Yes
+183059,1705,Restaurant name: Porto Fluviale Trattoria
+183059,1403,Price: 10.50
+183088,1795,Price: 13.50
+183088,2316,Available: Yes
+183088,1400,Focacce
+183088,1670,Restaurant name: Porto Fluviale Pizzeria
+183243,2994,Price: 21.00
+183243,1705,Restaurant name: Porto Fluviale Trattoria
+183243,1407,Gastronomy
+183243,1670,Restaurant name: Porto Fluviale Pizzeria
+183144,1798,Price: 17.00
+183144,1793,Swords
+183144,1705,Restaurant name: Porto Fluviale Trattoria
+183144,2316,Available: Yes
+183145,8,Salads
+183145,2316,Available: Yes
+183145,1670,Restaurant name: Porto Fluviale Pizzeria
+183145,1414,Price: 13.00
+183145,1705,Restaurant name: Porto Fluviale Trattoria
+183050,2236,Price: 14.00
+183050,1797,Second dish
+183050,1705,Restaurant name: Porto Fluviale Trattoria
+183050,2316,Available: Yes
+183063,1670,Restaurant name: Porto Fluviale Pizzeria
+183063,1398,Price: 6.00
+183063,1705,Restaurant name: Porto Fluviale Trattoria
+183063,2316,Available: Yes
+183063,1404,Sides
+182292,1382,Price: 8.00
+182292,2316,Available: Yes
+182292,1705,Restaurant name: Porto Fluviale Trattoria
+182292,1672,Pasta
+183087,1670,Restaurant name: Porto Fluviale Pizzeria
+183087,1705,Restaurant name: Porto Fluviale Trattoria
+183087,2316,Available: Yes
+183087,1416,Price: 4.00
+183087,2991,Kids Menù
+59825,1394,Price: 10.00
+59825,1401,White Pizzas
+59825,2316,Available: Yes
+59825,1670,Restaurant name: Porto Fluviale Pizzeria
+183101,1795,Price: 13.50
+183101,2316,Available: Yes
+183101,1670,Restaurant name: Porto Fluviale Pizzeria
+183101,1401,White Pizzas
+183135,2316,Available: Yes
+183135,1708,Cicchetti
+183135,1705,Restaurant name: Porto Fluviale Trattoria
+183135,1709,Price: 4.50
+183142,2316,Available: Yes
+183142,1705,Restaurant name: Porto Fluviale Trattoria
+183142,1387,Price: 11.00
+183142,1793,Swords
+89619,1670,Restaurant name: Porto Fluviale Pizzeria
+89619,1401,White Pizzas
+89619,1384,Price: 9.00
+89619,2316,Available: Yes
+183100,1401,White Pizzas
+183100,1670,Restaurant name: Porto Fluviale Pizzeria
+183100,2316,Available: Yes
+183100,1414,Price: 13.00
+183136,1689,Price: 3.50
+183136,2316,Available: Yes
+183136,1705,Restaurant name: Porto Fluviale Trattoria
+183136,1708,Cicchetti
+183056,2316,Available: Yes
+183056,1705,Restaurant name: Porto Fluviale Trattoria
+183056,1797,Second dish
+183056,1403,Price: 10.50
+183242,1407,Gastronomy
+183242,1705,Restaurant name: Porto Fluviale Trattoria
+183242,1670,Restaurant name: Porto Fluviale Pizzeria
+183242,1389,Price: 12.50
+183242,2316,Available: Yes
+183098,2316,Available: Yes
+183098,1401,White Pizzas
+183098,1393,Price: 12.00
+183098,1670,Restaurant name: Porto Fluviale Pizzeria
+182911,3580,Price: 7.50 / etto
+182911,1751,Grilled and second dish
+182911,2316,Available: Yes
+182911,1670,Restaurant name: Porto Fluviale Pizzeria
+153812,1705,Restaurant name: Porto Fluviale Trattoria
+153812,2316,Available: Yes
+153812,1728,Burger
+153812,2987,Price: 14.50
+183996,1705,Restaurant name: Porto Fluviale Trattoria
+183996,1708,Cicchetti
+183996,2316,Available: Yes
+183996,1689,Price: 3.50

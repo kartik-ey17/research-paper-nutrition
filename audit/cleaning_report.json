@@ -1,0 +1,20 @@
+{
+  "food_records_raw": 1914,
+  "food_records_output": 1914,
+  "food_missing_group": 113,
+  "food_duplicate_normalized_name_records": 199,
+  "food_negative_nutrition_values_found": 0,
+  "food_nutrient_long_records": 105379,
+  "food_measure_records": 3790,
+  "nutrient_records": 166,
+  "recipe_records_raw": 137,
+  "recipe_records_output": 137,
+  "recipe_component_records_output": 563,
+  "recipe_category_records_output": 554,
+  "meal_plan_records": 385,
+  "meal_version_records": 385,
+  "meal_records": 1889,
+  "meal_component_records_output": 7653,
+  "meal_food_references_missing_and_removed": 0,
+  "activity_records": 121
+}

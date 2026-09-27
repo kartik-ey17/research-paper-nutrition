@@ -1,0 +1,122 @@
+﻿id,name,is_distance_activity,met,physical_activity_category_id
+1000,protein_aerobic,False,7.3,3
+1005,protein_resistance_training,False,6.0,2
+1010,protein_cardio,False,6.0,2
+1015,protein_cycling,True,7.5,1
+1020,protein_endurance_training,True,4.5,17
+1025,protein_fat_burning_exercise,True,4.5,17
+1030,protein_hiking,True,6.0,17
+1035,protein_jump_rope,False,12.3,2
+1040,protein_pilates,False,3.0,2
+1045,protein_power_training,False,6.0,2
+1050,protein_running,True,6.0,12
+1055,protein_jogging,True,7.0,12
+1060,protein_spinning,True,8.5,2
+1065,protein_strength_training,False,6.0,2
+1070,protein_walking,True,4.5,17
+1075,protein_yoga,False,2.5,2
+1080,protein_cardiovascular,False,3.5,15
+1085,protein_sleep,False,4.5,9
+771,sledding,True,7.0,19
+759,skiing,True,7.0,19
+755,ice skating,True,7.0,19
+753,ice dancing,False,14.0,19
+746,windsurfing,False,5.0,18
+740,water volleyball,False,3.0,18
+486,running at 10 mph,True,14.5,12
+485,running at 9 mph,True,12.8,12
+484,running at 8.6 mph,True,12.3,12
+483,running at 8 mph,True,11.8,12
+482,running at 7.5 mph,True,11.5,12
+481,running at 7 mph,True,11.0,12
+480,running at 6.7 mph,True,10.5,12
+479,running at 6 mph,True,9.8,12
+478,running at 5.2 mph,True,9.0,12
+477,running at 5 mph,True,8.3,12
+476,running at 4 mph,True,6.0,12
+473,jogging,True,7.0,12
+535,curling,False,4.0,15
+113,hunting,False,5.0,4
+91,fishing,False,3.5,4
+86,dancing,False,7.8,3
+76,aerobic,False,7.3,3
+75,tap,False,4.8,3
+73,ballet,False,5.0,3
+67,yoga,False,2.5,2
+62,water aerobics,False,5.3,2
+59,fitball,False,2.8,2
+57,pilates,False,3.0,2
+56,stretching,False,2.3,2
+54,slide board exercise,False,11.0,2
+48,rowing (stationary ergometer),True,6.0,2
+47,rope skipping,False,12.3,2
+44,health club exercise (conditioning classes),False,7.8,2
+42,health club exercise,False,5.5,2
+39,"resistance training (weight lifting, free weight, power lifting or body building)",False,6.0,2
+38,elliptical,True,5.0,2
+35,circuit training,True,4.3,2
+32,"calisthenics (push ups, sit ups, pull-ups, lunges)",False,3.8,2
+30,stationary bicycling (Spin bike class),True,8.5,2
+23,stationary bicycling,True,7.0,2
+20,activity promoting video game,False,3.8,2
+18,unicycling,True,5.0,1
+8,bicycling,True,7.5,1
+4,mountain bicycling,True,8.5,1
+3,BMX bicycling,True,8.5,1
+739,water polo,False,10.0,18
+732,leisurely swimming,True,6.0,18
+730,crawl swimming,True,8.3,18
+728,butterfly swimming,True,13.8,18
+724,backstroke swimming,True,9.5,18
+719,surfing,False,3.0,18
+710,sailing,True,3.0,18
+708,kayaking,True,5.0,18
+707,diving,False,3.0,18
+705,canoeing/rowing,True,3.5,18
+689,walking,True,4.5,17
+673,walking for pleasure,True,3.5,17
+661,marching,True,4.5,17
+658,hiking (cross country),True,6.0,17
+631,"track and field (steeplechase, hurdles)",True,10.0,15
+630,"track and field (high/long jump, triple jump, javelin, pole vault)",True,6.0,15
+629,"track and field (shot, discus, hammer throw)",True,4.0,15
+627,wrestling,False,6.0,15
+626,beach volleyball,False,8.0,15
+623,volleyball,True,4.0,15
+621,trampoline,False,3.5,15
+616,tennis,True,7.3,15
+613,table tennis,False,4.0,15
+612,squash,True,7.3,15
+606,softball or baseball,True,5.0,15
+605,soccer,True,7.0,15
+604,soccer (competitive),True,10.0,15
+598,skating,True,7.0,15
+596,skateboarding,False,5.0,15
+593,rugby,True,8.3,15
+591,rope jumping,False,11.8,15
+586,"rock climbing, rappelling",True,5.0,15
+583,rock or mountain climbing,True,8.0,15
+582,racquetball,True,7.0,15
+580,polo,False,8.0,15
+577,orienteering,True,9.0,15
+571,martial arts,False,10.3,15
+560,horseback riding,False,5.5,15
+558,ice hockey,True,8.0,15
+557,field hockey,True,7.8,15
+553,handball,True,12.0,15
+551,gymnastics,False,3.8,15
+546,golf,False,4.8,15
+541,football,True,8.0,15
+539,fencing,False,6.0,15
+533,cricket,False,4.8,15
+525,boxing,False,12.8,15
+523,bowling,False,3.0,15
+517,basketball,True,6.5,15
+514,badminton,True,5.5,15
+512,archery,False,4.3,15
+496,marathon,True,13.3,12
+492,running,True,8.0,12
+490,running at 14 mph,True,23.0,12
+489,running at 13 mph,True,19.8,12
+488,running at 12 mph,True,19.0,12
+487,running at 11 mph,True,16.0,12
